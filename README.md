@@ -47,15 +47,5 @@ python train.py
 * Use `--show_keypoints` to visualize the detected keypoints (default: `False`).
 * Use `--viz_extension` to set the visualization file extension (default: `png`). Use pdf for highest-quality.
 
-### Visualization Demo
-The matches are colored by their predicted confidence in a jet colormap (Red: more confident, Blue: less confident).
-
-You should see images like this inside of `dump_match_pairs/`
-
-<img src="assets/8349_matches.png" width="800">
-<img src="assets/4599_matches2.png" width="800">
-<img src="assets/2799_matches.png" width="800">
-<img src="assets/3849_matches2.png" width="800">
-<img src="assets/3949_matches.png" width="800">
 
 
