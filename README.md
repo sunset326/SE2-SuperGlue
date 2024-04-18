@@ -1,4 +1,4 @@
-Our codes refer to https://github.com/yingxin-jia/SuperGlue-pytorch and https://github.com/magicleap/SuperGluePretrainedNetwork. We replaced the CNN backbone of encoder with equivariant steerable CNNs with the help of the e2cnn Pytorch package
+Our codes refer to https://github.com/yingxin-jia/SuperGlue-pytorch and https://github.com/magicleap/SuperGluePretrainedNetwork. We replaced the CNN backbone of encoder with equivariant steerable CNNs with the help of the e2cnn Pytorch package. 
 SuperGlue is self-supervised training and does not require manual annotation.
 
 ## Dependencies
