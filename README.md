@@ -34,7 +34,7 @@ wget http://images.cocodataset.org/zips/test2014.zip
 
 ### Training Directions
 
-To train the SuperGlue with default parameters, run the following command:
+To train the SuperGlue with custom parameters, run the following command:
 
 ```sh
 python train.py
